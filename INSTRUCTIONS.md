@@ -31,9 +31,3 @@ npx appium -a 127.0.0.1 -p 4723
 ```
 npm run wdio
 ```
-
-#### Start Appium Inspector
-
-```
-"..\Appium-Inspector-windows-2021.9.2\Appium Inspector.exe"
-```
